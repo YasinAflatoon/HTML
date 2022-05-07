@@ -1,10 +1,10 @@
 # Basic Tags
 
-In this tutorial we're going to cover basic and comman HTML tags that you'll probably need them a lot in your code, in prevoius tutorial we learned about main structure of an HTML file and now we're going in detials.
+In this tutorial, we're going to cover basic and common HTML tags that you'll probably need a lot in your code, in the previous tutorial we learned about the main structure of an HTML file and now we're going into details.
 
 ## Meta Tags
 
-The \<meta\> tag defines metadata about an HTML document. Metadata is data (information) about data. \<meta\> tags always go inside the \<head\> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+The \<meta\> tag defines metadata about an HTML document. Metadata is data (information) about data. \<meta\> tags always go inside the \<head\> element, and are typically used to specify the character set, page description, keywords, author of the document, and viewport settings.
 
 ### Attributes
 
@@ -15,7 +15,7 @@ The \<meta\> tag defines metadata about an HTML document. Metadata is data (info
 
 #### charset
 
-In our meta tag we can define the encoding of our HTML file using `charset` attribute in a meta tag:
+In our meta tag we can define the encoding of our HTML file using the `charset` attribute in a meta tag:
 
 ``` HTML
 <meta charset="UTF-8">
@@ -23,7 +23,7 @@ In our meta tag we can define the encoding of our HTML file using `charset` attr
 
 #### description
 
-A meta `description` provides a brief summary of a web page. and displayed as part of the search snippet in a search engine results page (SERP) and is meant to give the user an idea of the content that exists within the page and how it relates to their search query:
+A meta `description` provides a summary of a web page. and displayed as part of the search snippet in a search engine results page (SERP) and is meant to give the user an idea of the content that exists within the page and how it relates to their search query:
 
 ``` HTML
 <meta name="description" content="This is how meta tags work">
@@ -47,7 +47,7 @@ In our meta tag we can specify the author of the HTML file in a meta tag:
 
 > We'll discuss the viewpoint attribute later on.
 
-So up to now we learned about meta tags and we can and them to our HTML file:
+So up to now we learned about meta tags and we can add them to our HTML file:
 
 ``` HTML
 <!DOCTYPE html>
@@ -69,7 +69,7 @@ Now we head to tags used in body tags.
 
 ## Heading Tags
 
-In HTML, we can have 6 heading styles specifed by `h`, from h1 to h6:
+In HTML, we can have 6 heading styles specified by `h`, from h1 to h6:
 
 ``` HTML
 <body>
@@ -90,7 +90,7 @@ Paragraph tags are the easiest to write and they are used for writing a paragrap
 </body>
 ```
 
-The cool thing about paragraphs is that they automatically format themselves. if you add another paragraaph tag, HTML will specify them with a empty line.
+The cool thing about paragraphs is that they automatically format themselves. if you add another paragraph tag, HTML will specify them with an empty line.
 
 ## Styling Tags
 
@@ -98,7 +98,7 @@ We can also style some words inside this paragraph tags:
 
 ### Bold Tag
 
-Inside paragraph tag, you can put an element in a `Bold` tag, just like this:
+Inside the paragraph tag, you can put an element in a `Bold` tag, just like this:
 
 ``` HTML
 <body>
@@ -111,7 +111,7 @@ Now the word "paragraph" will be bolded in our browser.
 
 ### Italic Tag
 
-You can also put an element in a `Italic` tags, just like this:
+You can also put an element in an `Italic` tag, just like this:
 
 ``` HTML
 <body>
@@ -126,7 +126,7 @@ Now the word "paragraph" will be italicized.
 
 ### Big and Small
 
-We have two other tags which we can apply on our paragraph words to make them big, or smaller than normal size.
+We have two other tags which we can apply to our paragraph words to make them big, or smaller than normal size.
 
 ``` HTML
 <body>
@@ -139,7 +139,7 @@ We have two other tags which we can apply on our paragraph words to make them bi
 
 ### Break Lines
 
-HTML ignores the white spaces you create in your code so if you tap some "enter"s you'll see any diffrences. to create that lines, we use a tag called `Break Line`
+HTML ignores the white spaces you create in your code so if you tap some "enter"s you'll see any differences. to create that lines, we use a tag called `Break Line`
 
 ``` HTML
 <body>
@@ -161,7 +161,7 @@ This is another paragraph
 
 ### Horizontal Rule
 
-There is another tag that creates a line that can be uses as a Separator. if you wanna have a clear image of this, scroll up to top of this page. under the "Basic Tags" you can see that line which separates the heading from the rest of the article.
+There is another tag that creates a line that can be used as a Separator. if you wanna have a clear image of this, scroll up to the top of this page. under the "Basic Tags" you can see that line that separates the heading from the rest of the article.
 
 ``` HTML
 <body>
@@ -173,7 +173,7 @@ There is another tag that creates a line that can be uses as a Separator. if you
 
 ### Subscript and Superscript
 
-We can also make subscript and superscript using tags to style our texts:
+We can also make subscripts and superscripts using tags to style our texts:
 
 ``` HTML
 <body>
@@ -182,6 +182,6 @@ We can also make subscript and superscript using tags to style our texts:
 </body>
 ```
 
-The output will be like:
+The output will be like this:
 
 ![SubSupScript](/media/img03.png)

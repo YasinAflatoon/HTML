@@ -13,3 +13,4 @@ HTML stands for "HyperText Markup Language" and it's basically just a language t
 |`001`|[Get Started](notes/GetStarted.md)      |
 |`002`|[Hello HTML](notes/HelloHTML.md)        |
 |`003`|[Basic Tags](notes/BasicTags.md)        |
+|`004`|[Comments](notes/Comments.md)           |

@@ -18,7 +18,6 @@ then you set the style equal to "color" and you put a colon and then type the **
 
 > RBG format will be like: `rbg(RED, GREEN, BLUE)`
 
-
 * if you want to pass more than one value to "style" you need to specify them with semicolon **`;`**.
 
 You can also apply the styling to the body tag to have the whole page colored:

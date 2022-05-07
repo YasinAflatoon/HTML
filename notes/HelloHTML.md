@@ -15,7 +15,7 @@ Hello, World!
 ```
 
 then save this file and go back to your folder in your file explorer and open the file with your prefered browser.
-You can see the pure text on your browser and now officialy you wrote your first HTML file like a piece of cake.
+You can see the pure text on your browser and now officially you wrote your first HTML file like a piece of cake.
 
 ![HelloHTML](/media/img01.png)
 
@@ -46,15 +46,15 @@ So the first container tag is `html tag`:
 
 As you see starting tag and ending tag are basically the same but we use a forward slash before tag name to specify the ending tag.
 
-This html tag is gonna be necessarly for any HTML files you that you have and this is the highest level tag in our web page.
+This html tag is gonna be necessary for any HTML files that you have and this is the highest level tag on our web page.
 
 Now it's time to create two sets of tags:
 
 #### Head Tags
 
-`Head tags` basically work like a command center for your HTML file. they control the media, define document title or description and they are used in importing any resources that we need into our HTML file.
+`Head tags` basically work as a command center for your HTML file. they control the media, define document title or description and they are used in importing any resources that we need into our HTML file.
 
-We can create head by writting head tags:
+We can create head by writing head tags:
 
 ``` HTML
 <head>
@@ -62,7 +62,7 @@ We can create head by writting head tags:
 </head>
 ```
 
-Inside these head tags we can add a `title tag` which will be shown on the browsing tab and it can be define like:
+Inside these head tags we can add a `title tag` which will be shown on the browser tab and it can be defined like:
 
 ``` HTML
 <title>Yasin's Website</title>
@@ -72,9 +72,9 @@ Inside these head tags we can add a `title tag` which will be shown on the brows
 
 #### Body Tags
 
-So body is where we're gonna put the main content of the HTML page. So everything we write in body it's gonna show up or at least rendered by browser.
+So the body is where we're gonna put the main content of the HTML page. So everything we write in the body it's gonna show up or at least be rendered by the browser.
 
-and by same formula we create our `body tags`:
+and by the same formula we create our `body tags`:
 
 ``` HTML
 <body>
@@ -82,9 +82,9 @@ and by same formula we create our `body tags`:
 </body>
 ```
 
-So I'm defining all of these diffrent tags and when I open this file in my web browser, so the web browser can actually parse through all these diffrent tags and it can figure out, how to display the contents you write.
+So I'm defining all of these different tags and when I open this file in my web browser, so the web browser can parse through all these different tags and it can figure out, how to display the contents you write.
 
-So this is what we have wrote so far:
+So this is what we have written so far:
 
 ``` HTML
 <!DOCTYPE html>

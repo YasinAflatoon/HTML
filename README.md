@@ -8,10 +8,11 @@ HTML stands for "HyperText Markup Language" and it's basically just a language t
 
 ## Notes
 
-|#    |Title                                   |
-| --- | -------------------------------------- |
-|`001`|[Get Started](notes/GetStarted.md)      |
-|`002`|[Hello HTML](notes/HelloHTML.md)        |
-|`003`|[Basic Tags](notes/BasicTags.md)        |
-|`004`|[Comments](notes/Comments.md)           |
-|`005`|[Basic Styling](notes/BasicStyling.md)  |
+|#    |Title                                      |
+| --- | ----------------------------------------- |
+|`001`|[Get Started](notes/GetStarted.md)         |
+|`002`|[Hello HTML](notes/HelloHTML.md)           |
+|`003`|[Basic Tags](notes/BasicTags.md)           |
+|`004`|[Comments](notes/Comments.md)              |
+|`005`|[Basic Styling](notes/BasicStyling.md)     |
+|`006`|[Page Formatting](notes/PageFormatting.md) |

@@ -89,10 +89,10 @@ Aside tags are used for that kind of content that isn't directly related to the 
         </section>
         
         <section>
-            Second section goes here...
-        </section>
+            <aside>
 
-        <aside>
+            </aside>    
+        </section>
     </article>
 </body>
 ```

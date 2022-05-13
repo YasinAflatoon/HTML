@@ -16,3 +16,4 @@ HTML stands for "HyperText Markup Language" and it's basically just a language t
 |`004`|[Comments](notes/Comments.md)              |
 |`005`|[Basic Styling](notes/BasicStyling.md)     |
 |`006`|[Page Formatting](notes/PageFormatting.md) |
+|`007`|[Links](notes/Links.md)                    |

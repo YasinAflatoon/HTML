@@ -17,3 +17,5 @@ HTML stands for "HyperText Markup Language" and it's basically just a language t
 |`005`|[Basic Styling](notes/BasicStyling.md)     |
 |`006`|[Page Formatting](notes/PageFormatting.md) |
 |`007`|[Links](notes/Links.md)                    |
+
+Yasin Aflatoonzade, 2022
